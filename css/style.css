@@ -1,7 +1,7 @@
 body {
+  font-family: font-family: 'Lato', sans-serif;
   line-height: 1.5;
   color: white;
-
 
   background: url("../images/daft-sam.gif");
   /* Full Page Background Receipe */
@@ -13,11 +13,13 @@ body {
 .container {
   width: 500px;
   margin: 40px;
-  background: black;
+  background: rgba(0,0,0,0.5);
   padding: 15px;
+  border-radius: 10px;
 }
 
 h1 {
+  font-family: font-family: 'Rokkitt', serif;
   font-size: 70px;
   margin-bottom: -50px;
 }
@@ -27,6 +29,6 @@ h2 {
 }
 
 a {
-  color: yellow;
+  color: #BFE35B;
   text-decoration: none;
 }
