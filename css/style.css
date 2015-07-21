@@ -1,5 +1,6 @@
 body {
   line-height: 1.5;
+  color: white;
 
   /* Full Page Background Receipe */
   background-size: cover;
@@ -10,4 +11,20 @@ body {
 .container {
   width: 500px;
   margin: 40px;
+  background: black;
+  padding: 15px;
+}
+
+h1 {
+  font-size: 70px;
+  margin-bottom: -50px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+a {
+  color: yellow;
+  text-decoration: none;
 }
